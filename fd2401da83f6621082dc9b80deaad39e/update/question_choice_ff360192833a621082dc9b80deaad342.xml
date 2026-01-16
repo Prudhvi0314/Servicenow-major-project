@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Duration">e736cd52833a621082dc9b80deaad3ae</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-19 18:35:54</sys_created_on>
+        <sys_id>ff360192833a621082dc9b80deaad342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6 months</sys_name>
+        <sys_package display_value="ServiceNow Major Project" source="x_1608838_servicen">fd2401da83f6621082dc9b80deaad39e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Major Project">fd2401da83f6621082dc9b80deaad39e</sys_scope>
+        <sys_update_name>question_choice_ff360192833a621082dc9b80deaad342</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-19 18:35:54</sys_updated_on>
+        <text>6 months</text>
+        <value>6 months</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ff360192833a621082dc9b80deaad342"/>
+</record_update>
